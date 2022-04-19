@@ -1,0 +1,18 @@
+{
+  "repository": "@divriots/specify-demo",
+  "head": "specify",
+  "rules": [
+    {
+      "name": "Design Tokens",
+      "path": "sd-input/",
+      "parsers": [
+        {
+          "name": "to-style-dictionary",
+          "options": {
+            "splitBy": "/"
+          }
+        }
+      ]
+    }
+  ]
+}
