@@ -8,6 +8,9 @@
   "scripts": {
     "serve": "npx backlight@latest serve 4Sm1ZWpyi5uKstSWWesY --open"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.0",
+    "lit": "^2.2.2"
+  },
   "dependencies": {}
 }
