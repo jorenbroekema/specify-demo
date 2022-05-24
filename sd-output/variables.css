@@ -1,9 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Tue, 19 Apr 2022 16:05:23 GMT
+ * Generated on Tue, 24 May 2022 15:02:16 GMT
  */
 
 :root {
+  --specify-inter-regular-name: "Inter-Regular";
   --specify-inter-regular-ttf: "Inter-Regular.ttf";
   --specify-core-colors-primary-50: #eef2ff;
   --specify-core-colors-primary-100: #e0e7ff;
@@ -25,7 +26,7 @@
   --specify-core-colors-grey-700: #374151;
   --specify-core-colors-grey-800: #1f2937;
   --specify-core-colors-grey-900: #111827;
-  --specify-button-primary-hover-background: #e0e7ff;
+  --specify-button-primary-hover-background: #a5b4fc;
   --specify-button-primary-focus-outline: #f9fafb;
   --specify-button-primary-disabled-background: #3730a3;
   --specify-button-primary-color: #f9fafb;
