@@ -1,5 +1,10 @@
 {
   "asset": {
-    "font": { "interRegular": { "ttf": { "value": "Inter-Regular.ttf" } } }
+    "font": {
+      "interRegular": {
+        "name": { "value": "Inter-Regular" },
+        "ttf": { "value": "Inter-Regular.ttf" }
+      }
+    }
   }
 }
