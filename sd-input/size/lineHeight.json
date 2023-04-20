@@ -1,5 +1,7 @@
 {
   "size": {
-    "lineHeight": { "button": { "content": { "value": "14.0625px" } } }
+    "lineHeight": {
+      "button": { "content": { "value": "14.522727012634277px" } }
+    }
   }
 }
